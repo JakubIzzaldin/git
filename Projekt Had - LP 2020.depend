@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1594153330 source:k:\projekty\projekt had - lp 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rlutil.h"
+
+1571555538 k:\projekty\projekt had - lp 2020\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1598379776 source:k:\20p.prj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"area.c"
+
+1571555538 k:\20p.prj\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1598389404 k:\20p.prj\area.c
+	"objects.c"
+
+1597770028 k:\20p.prj\objects.c
+
+1598372576 source:d:\programing\c\snake\had\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"area.c"
+
+1571548338 d:\programing\c\snake\had\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1598382204 d:\programing\c\snake\had\area.c
+	"objects.c"
+
+1597762828 d:\programing\c\snake\had\objects.c
+

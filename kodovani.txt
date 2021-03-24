@@ -1,0 +1,14 @@
+malé š
+------
+UNICODE HEX - 161
+        DEC - 353
+        BIN - 1 0110 0001
+
+cp850 HEX - nejde
+cp852 HEX - E7
+      DEC - 231
+
+cp1250 HEX - 9A
+utf8 BIN  110xxxxx 10xxxxxx
+          11000101 10100001
+     HEX  C5A1
